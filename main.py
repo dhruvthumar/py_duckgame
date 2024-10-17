@@ -35,7 +35,7 @@ powerup_sound = pygame.mixer.Sound('powerup.mp3')
 
 # Background music
 pygame.mixer.music.load('background_music.mp3')
-pygame.mixer.music.play(-6)  # Loop background music
+pygame.mixer.music.play(-9)  # Loop background music
 
 # Game variables
 duck_speed = 3
