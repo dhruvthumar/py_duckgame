@@ -1,3 +1,5 @@
+# without features
+# 
 import pygame
 import random
 import sys
